@@ -59,6 +59,8 @@ RUN chown -R ${NB_UID} ${HOME}
 
 USER ${NB_USER}
 ```
+BOTÓN PARA NOTAS 1.4
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gzarazua/repo_publico_mno/rama1?urlpath=lab)
 
-
-
+BOTÓN PARA NOTAS 1.5
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gzarazua/repo_publico_mno/rama2?urlpath=lab) 
