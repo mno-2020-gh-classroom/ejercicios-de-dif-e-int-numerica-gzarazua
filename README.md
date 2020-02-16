@@ -70,7 +70,7 @@ cd home/jovyan/
 git clone https://github.com/mno-2020-gh-classroom/ejercicios-de-dif-e-int-numerica-gzarazua.git 
 
 Cuando quieran correr/modificar las notas usen el kernel correspondiente usando el botón de arriba a la derecha
-https://raw.githubusercontent.com/gzarazua/repo_publico_mno/master/Imagen1.png
+(https://raw.githubusercontent.com/gzarazua/repo_publico_mno/master/Imagen1.png)
 
 
 BOTÓN PARA NOTAS 1.4
