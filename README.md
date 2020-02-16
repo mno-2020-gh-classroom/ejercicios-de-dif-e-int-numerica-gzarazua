@@ -59,6 +59,9 @@ RUN chown -R ${NB_UID} ${HOME}
 
 USER ${NB_USER}
 ```
+
+
+AL USAR ESTOS BOTONES POSICIONENSE EN HOME/JOVYAN/ con: cd home/jovyan/
 BOTÓN PARA NOTAS 1.4
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gzarazua/repo_publico_mno/rama1?urlpath=lab)
 
