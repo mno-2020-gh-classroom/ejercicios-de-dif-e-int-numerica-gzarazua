@@ -61,11 +61,15 @@ USER ${NB_USER}
 ```
 
 
-PARA MODIFICAR EL REPO DE CLASSROOM USANDO ESTOS BOTONES POSICIONENSE EN "HOME/JOVYAN/" y clonen...
+*PARA MODIFICAR EL REPO DE CLASSROOM USANDO ESTOS BOTONES POSICIONENSE EN "HOME/JOVYAN/" y clonen...*
+
 bash
+
 cd home/jovyan/
+
 git clone https://github.com/mno-2020-gh-classroom/ejercicios-de-dif-e-int-numerica-gzarazua.git 
-cuando quieran correr/modificar las notas usen el kernel correspondiente usando el botón de arriba a la derecha
+
+Cuando quieran correr/modificar las notas usen el kernel correspondiente usando el botón de arriba a la derecha
 
 BOTÓN PARA NOTAS 1.4
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gzarazua/repo_publico_mno/rama1?urlpath=lab)
